@@ -1,8 +1,10 @@
 Git Commands:
-  - git status
-  - git push
-  - git commit -m "Commit message"
-  -
+  - Initialize git repo: git init
+  - Git the status of what is currently staged: git status
+  - Stage for commit: git add <file_name>
+  - Add commit message (This is for clerical organization): git commit -m "Commit message"
+  - Push code to remote repo: git push
+  - Pull down changes: git pull
 
 Linux Commands:
   - Show what is in my directory: ls
@@ -11,3 +13,15 @@ Linux Commands:
   - Run python: python3 <filename>
   - Run privileges command: sudo <command>
   - Install a package: sudo apt install -y <package_name>
+
+Things to work on:
+  - Basic: 
+    - This can teach basics of web development and paths
+    - https://flask.palletsprojects.com/en/stable/quickstart/
+  - Django:
+    - A bit more built out include database, users, middleware, etc
+    - https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+
+  - Things Quin has written:
+    - https://github.com/qoutland
+  
