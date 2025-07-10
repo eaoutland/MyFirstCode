@@ -1,0 +1,13 @@
+Git Commands:
+  - git status
+  - git push
+  - git commit -m "Commit message"
+  -
+
+Linux Commands:
+  - Show what is in my directory: ls
+  - Change directory: cd <dir_name>
+  - Go back directory: cd ..
+  - Run python: python3 <filename>
+  - Run privileges command: sudo <command>
+  - Install a package: sudo apt install -y <package_name>
